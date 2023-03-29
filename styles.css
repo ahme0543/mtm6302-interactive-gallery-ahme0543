@@ -31,15 +31,23 @@
 
 * {
     box-sizing: border-box;
+    background-color:rgba(70, 153, 125, 0.79);
   }
   
   body {
+    background-color: black;
     margin: 0;
     font-family: Arial, sans-serif;
   }
+
+  h1{
+    text-align: center;
+    font-size: 3rem;
+    margin-bottom: 2rem;
+  }
   
   .gallery-container {
-    max-width: 800px;
+    max-width: 1000px;
     margin: 0 auto;
     padding: 20px;
   }
