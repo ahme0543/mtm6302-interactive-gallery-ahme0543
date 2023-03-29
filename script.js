@@ -1,16 +1,16 @@
 const images = [
-    { src: 'image1.jpg', hdSrc: 'image1_hd.jpg', caption: 'Image 1' },
-    { src: 'image2.jpg', hdSrc: 'image2_hd.jpg', caption: 'Image 2' },
-    { src: 'image3.jpg', hdSrc: 'image3_hd.jpg', caption: 'Image 3' },
-    { src: 'image4.jpg', hdSrc: 'image4_hd.jpg', caption: 'Image 4' },
-    { src: 'image5.jpg', hdSrc: 'image5_hd.jpg', caption: 'Image 5' },
-    { src: 'image6.jpg', hdSrc: 'image6_hd.jpg', caption: 'Image 6' },
-    { src: 'image7.jpg', hdSrc: 'image7_hd.jpg', caption: 'Image 7' },
-    { src: 'image8.jpg', hdSrc: 'image8_hd.jpg', caption: 'Image 8' },
-    { src: 'image9.jpg', hdSrc: 'image9_hd.jpg', caption: 'Image 9' },
-    { src: 'image10.jpg', hdSrc: 'image10_hd.jpg', caption: 'Image 10' },
-    { src: 'image11.jpg', hdSrc: 'image11_hd.jpg', caption: 'Image 11' },
-    { src: 'image12.jpg', hdSrc: 'image12_hd.jpg', caption: 'Image 12' }
+    { src: 'images/1.jpeg', hdSrc: 'images/1.jpeg', caption: 'Image 1 in HD' },
+    { src: 'images/2.jpeg', hdSrc: 'images/2.jpeg', caption: 'Image 2 in HD' },
+    { src: 'images/3.jpeg', hdSrc: 'images/3.jpeg', caption: 'Image 3 in HD' },
+    { src: 'images/4.jpeg', hdSrc: 'images/4.jpeg', caption: 'Image 4 in HD' },
+    { src: 'images/5.jpeg', hdSrc: 'images/5.jpeg', caption: 'Image 5 in HD' },
+    { src: 'images/6.jpg', hdSrc: 'images/6.jpg', caption: 'Image 6 in HD' },
+    { src: 'images/7.jpg', hdSrc: 'images/7.jpg', caption: 'Image 7 in HD' },
+    { src: 'images/8.jpg', hdSrc: 'images/8.jpg', caption: 'Image 8 in HD' },
+    { src: 'images/9.jpg', hdSrc: 'images/9.jpg', caption: 'Image 9 in HD' },
+    { src: 'images/10.jpg', hdSrc: 'images/10.jpg', caption: 'Image 10 in HD' },
+    { src: 'images/11.jpg', hdSrc: 'images/11.jpg', caption: 'Image 11 in HD' },
+    { src: 'images/12.jpg', hdSrc: 'images/12.jpg', caption: 'Image 12 in HD' }
   ];
   
   const gallery = document.querySelector('.gallery');
